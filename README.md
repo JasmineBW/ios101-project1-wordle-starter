@@ -27,10 +27,9 @@ The following **optional** features are implemented:
       <p>Wordle App - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/a97c38a037b743b2a64169de22a7148f">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a97c38a037b743b2a64169de22a7148f-with-play.gif">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a97c38a037b743b2a64169de22a7148f-1708971022305-with-play.gif">
     </a>
   </div>
-
 
 ## Notes
 
